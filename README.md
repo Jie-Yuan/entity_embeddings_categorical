@@ -7,7 +7,7 @@
 # Overview
 
 This project is aimed to serve as an utility tool for the preprocessing, training and extraction of entity embeddings through Neural Networks using the Keras framework. It's still under construction, so please use it carefully.
-
+s
 # Installation
 
 The installation is pretty simple if you have a virtualenv already installed on your machine. If you don't please rely to [VirtualEnv official documentation](https://virtualenv.pypa.io/en/latest/).
